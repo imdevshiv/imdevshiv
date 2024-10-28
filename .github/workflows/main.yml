@@ -14,7 +14,7 @@ jobs:
     steps:
       # Checks out the repository
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to v3
 
       # Generates the snake animation
       - name: Generate Snake Animation
@@ -31,7 +31,7 @@ jobs:
 
       # Deploy the generated files to the 'output' branch
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.1.3
+        uses: crazy-max/ghaction-github-pages@v3.1.0  # Updated to v3.1.0
         with:
           target_branch: output
           build_dir: dist
@@ -42,10 +42,10 @@ jobs:
       - name: Check Git Status
         run: git status
 
-      # Push the changes if needed
-      - name: Push Changes to Master
+      # Push the changes to the main branch
+      - name: Push Changes to Main
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main  # Ensure this is set to 'main'
           force: true
