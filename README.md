@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdevshiv&theme=dark" alt="imdevshiv" /></p>
 
 
-## BRUH BE CAREFULL
+## BUDDY BE CAREFUL
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imdevshiv/imdevshiv/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imdevshiv/imdevshiv/output/github-contribution-grid-snake.svg">
