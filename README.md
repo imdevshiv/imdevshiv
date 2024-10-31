@@ -32,6 +32,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imdevshiv&theme=dark" alt="imdevshiv" /></p>
 
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv54)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://imdevshiv.github.io/Portfolio/))
+[![CV](https://img.shields.io/badge/CV-brightgreen?logo=adobe-acrobat-reader&logoColor=white)](https://imdevshiv.github.io/Portfolio/assets/Shiv_CV.pdf)
 
 ## BUDDY BE CAREFUL
 <picture>
@@ -46,10 +51,6 @@
 
 </h1>
 
-## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv54)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://imdevshiv.github.io/Portfolio/))
-[![CV](https://img.shields.io/badge/CV-brightgreen?logo=adobe-acrobat-reader&logoColor=white)](https://imdevshiv.github.io/Portfolio/assets/Shiv_CV.pdf)
 
 
