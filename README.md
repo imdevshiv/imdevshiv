@@ -45,3 +45,11 @@
        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75ABF&center=true&vCenter=true&width=435&height=100&lines=THANK+YOU" alt="Typing SVG" /></a>
 
 </h1>
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiv54)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yellow?logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://imdevshiv.github.io/Portfolio/))
+[![CV](https://img.shields.io/badge/CV-brightgreen?logo=adobe-acrobat-reader&logoColor=white)](https://imdevshiv.github.io/Portfolio/assets/Shiv_CV.pdf)
+
+
